@@ -32,3 +32,11 @@ B: Ask the apple eater for a bite.
 C: Do your business, wash your hands, get out of there without a word.
 D: Ask everyone for their email addresses.
 
+Needed: 
+
+A javascript doc.
+
+A Multi page HTML doc.
+
+A CSS doc
+
